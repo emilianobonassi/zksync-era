@@ -31,6 +31,8 @@ contracts/.git
 !sdk/zksync-web3.js
 !etc/system-contracts/bootloader/build/artifacts
 !etc/system-contracts/artifacts-zk
+!etc/system-contracts/contracts/artifacts
+!etc/system-contracts/contracts/precompiles/artifacts
 !cargo
 !bellman-cuda
 !core/bin/verification_key_generator_and_server/data/
